@@ -25,6 +25,7 @@ void main() async {
       child: const AppLocalization(
         child: ProviderScope(
           child: App(),
+          //Hello Git Hub Test
         ),
       ),
     ),
